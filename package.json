@@ -1,0 +1,10 @@
+{
+  "script": {
+    "start":
+      "babel-watch js/mp.js"
+    
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2"
+  }
+}
