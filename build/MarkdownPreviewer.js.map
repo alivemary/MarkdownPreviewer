@@ -1,1 +1,0 @@
-{"version":3,"sources":["../MarkdownPreviewer.js"],"names":["ReactDOM","render","document","getElementById"],"mappings":"AAAAA,SAASC,MAAT,CACO;AAAA;AAAA;AAAA;AAAA,CADP,EAEOC,SAASC,cAAT,CAAwB,MAAxB,CAFP","file":"MarkdownPreviewer.js","sourcesContent":["ReactDOM.render(\r\n       <h1>Hello, world!</h1>,\r\n       document.getElementById('root')\r\n);\r\n"]}
