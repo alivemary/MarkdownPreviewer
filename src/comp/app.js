@@ -1,5 +1,6 @@
 ﻿import React from 'react';
 import InputWin from './InputWin.js';
+import TextOutput from './TextOutput.js';
 
 
 class App extends React.Component {
@@ -9,8 +10,8 @@ class App extends React.Component {
          	<h1 className="text-center">MarkdownPreviewer</h1>
          	<div className ='container-fluid'> 
          		<div className = 'row'>       	
-         			<div className = 'col-md-6 text-right'><InputWin /></div>
-         			<div className = 'col-md-6 text-left'>Text here</div>
+         			<InputWin />
+         			<TextOutput />
          		</div>
          	</div>
          </div>

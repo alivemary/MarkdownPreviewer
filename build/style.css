@@ -1,14 +1,15 @@
-body h1 {
-  background-color: green;
+body {
+  background: white;
+  margin: auto;
 }
 
-body p {
-  color: blue;
+body h1 {
+  background-color: white;
 }
 
 body textarea {
-  width: 300px;
-  height: 150px;
+  width: 60%;
+  height: 700px;
 }
 
 
