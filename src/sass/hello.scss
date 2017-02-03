@@ -1,5 +1,14 @@
 body {
+	background: darkgrey;
+	margin: auto;
+    h1{
+      background-color: grey;
+    }
     p {
         color: blue;
     }
+    textarea {
+  		width: 300px;
+  		height: 450px;
+	}
 }
