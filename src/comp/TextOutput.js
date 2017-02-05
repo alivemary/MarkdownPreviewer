@@ -7,7 +7,7 @@ class TextOutput extends React.Component {
     render() {
         return (
         <div className = 'col-md-6 text-left'>
-         <p>Here is an output text</p>
+         <p>{this.props.outputText}</p>
         </div>
         )
     }
